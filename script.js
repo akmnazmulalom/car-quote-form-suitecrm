@@ -1,0 +1,1 @@
+console.log('Script placeholder for GitHub Pages static form');
